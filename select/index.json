@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Wellerman (Sea Shanty)",
+  "base_artist": "Nathan Evans",
+  "createdAt": "2025-12-21T02:13:40.304857Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wellerman - Sea Shanty",
+      "artist": "Nathan Evans",
+      "has_synced": true,
+      "path": "select/01_Wellerman_-_Sea_Shanty_Nathan_Evans.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wellerman - Sea Shanty / 220 KID x Billen Ted Remix",
+      "artist": "Nathan Evans feat. 220 KID & Billen Ted",
+      "has_synced": true,
+      "path": "select/02_Wellerman_-_Sea_Shanty___220_KID_x_Billen_Ted_Remix_Nathan_Evans_feat._220_KID_&_Billen_Ted.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Wellerman (Sea Shanty / 220 KID x Billen Ted Remix)",
+      "artist": "Nathan Evans, 220 KID, Billen Ted",
+      "has_synced": true,
+      "path": "select/03_Wellerman_(Sea_Shanty___220_KID_x_Billen_Ted_Remix)_Nathan_Evans,_220_KID,_Billen_Ted.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wellerman (Sea Shanty)",
+      "artist": "Nathan Evans",
+      "has_synced": true,
+      "path": "select/04_Wellerman_(Sea_Shanty)_Nathan_Evans.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wellerman (Sea Shanty)",
+      "artist": "Nathan Evans",
+      "has_synced": true,
+      "path": "select/05_Wellerman_(Sea_Shanty)_Nathan_Evans.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wellerman (Sea Shanty \u0000 220 KID x Billen Ted Remix)",
+      "artist": "Nathan Evans/220 KID/Billen Ted",
+      "has_synced": true,
+      "path": "select/06_Wellerman_(Sea_Shanty_\u0000_220_KID_x_Billen_Ted_Remix)_Nathan_Evans_220_KID_Billen_Ted.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wellerman (Sea Shanty / 220 KID x Billen Ted Remix)",
+      "artist": "Nathan Evans, 220 KID",
+      "has_synced": true,
+      "path": "select/07_Wellerman_(Sea_Shanty___220_KID_x_Billen_Ted_Remix)_Nathan_Evans,_220_KID.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wellerman - Sea Shanty / 220 KID x Billen Ted Remix",
+      "artist": "Nathan Evans, 220 KID, Billen Ted",
+      "has_synced": true,
+      "path": "select/08_Wellerman_-_Sea_Shanty___220_KID_x_Billen_Ted_Remix_Nathan_Evans,_220_KID,_Billen_Ted.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wellerman - Sea Shanty / 220 KID x Billen Ted Remix",
+      "artist": "220 KID",
+      "has_synced": true,
+      "path": "select/09_Wellerman_-_Sea_Shanty___220_KID_x_Billen_Ted_Remix_220_KID.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wellerman - Sea Shanty",
+      "artist": "Nathan Evans",
+      "has_synced": true,
+      "path": "select/10_Wellerman_-_Sea_Shanty_Nathan_Evans.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wellerman - Sea Shanty / 220 KID x Billen Ted Remix",
+      "artist": "Nathan Evans/220 KID",
+      "has_synced": true,
+      "path": "select/11_Wellerman_-_Sea_Shanty___220_KID_x_Billen_Ted_Remix_Nathan_Evans_220_KID.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Wellerman - Sea Shanty",
+      "artist": "Nathan Evans",
+      "has_synced": true,
+      "path": "select/12_Wellerman_-_Sea_Shanty_Nathan_Evans.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wellerman (Sea Shanty / The Kiffness Remix)",
+      "artist": "Nathan Evans feat. The Kiffness",
+      "has_synced": true,
+      "path": "select/13_Wellerman_(Sea_Shanty___The_Kiffness_Remix)_Nathan_Evans_feat._The_Kiffness.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wellerman (Sea Shanty / The Kiffness Remix)",
+      "artist": "Nathan Evans & The Kiffness",
+      "has_synced": true,
+      "path": "select/14_Wellerman_(Sea_Shanty___The_Kiffness_Remix)_Nathan_Evans_&_The_Kiffness.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wellerman (Sea Shanty)",
+      "artist": "Nathan Evans - Topic",
+      "has_synced": true,
+      "path": "select/15_Wellerman_(Sea_Shanty)_Nathan_Evans_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Wellerman (Sea Shanty)",
+      "artist": "NIVIRO",
+      "has_synced": true,
+      "path": "select/16_The_Wellerman_(Sea_Shanty)_NIVIRO.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Wellerman (Sea Shanty)",
+      "artist": "NIVIRO",
+      "has_synced": true,
+      "path": "select/17_The_Wellerman_(Sea_Shanty)_NIVIRO.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Wellerman (Sea Shanty)",
+      "artist": "Nathan Evans",
+      "has_synced": true,
+      "path": "select/18_Wellerman_(Sea_Shanty)_Nathan_Evans.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Wellerman (Sea Shanty)",
+      "artist": "Nathan Evans",
+      "has_synced": false,
+      "path": "select/pl_01_Wellerman_(Sea_Shanty)_Nathan_Evans.txt"
+    }
+  ]
+}
